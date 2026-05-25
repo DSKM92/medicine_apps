@@ -8,7 +8,7 @@ st.set_page_config(page_title="약 위치 찾기", page_icon="💊", layout="cen
 
 # 2. 구글 스프레드시트 주소 설정
 # ⚠️ 주의: 반드시 본인의 구글 시트 공유 링크 주소로 교체하세요!
-dir_before = "https://docs.google.com/spreadsheets/d/1C1yJzFFM9czy3kQ6zEzM_g3_c-DoVHtP7DOToKyS14Y/edit?usp=sharing"
+dir_before = "https://docs.google.com/spreadsheets/d/1Xzis4hA-NHG3-vyMXMgcIOgz799tPuek5uUUSfmD5bQ/edit?usp=sharing"
 dir_after = "https://docs.google.com/spreadsheets/d/1C1yJzFFM9czy3kQ6zEzM_g3_c-DoVHtP7DOToKyS14Y/export?format=csv"
 GOOGLE_SHEET_URL = dir_before
 
